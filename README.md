@@ -1,8 +1,8 @@
 # UAS Pemrorgraman Web 
 
-Membuat dan meng hostingkan tugas akhir dengan tema sistem antrian
+Membuat dan meng hostingkan tugas akhir dengan tema SISTEM ANTRIAN
 
-Dengan link URL : https://antrian.xyz
+Dapat di cek melalui link URL : https://antrian.xyz
 
 ![2](https://user-images.githubusercontent.com/101656195/178028211-36005b57-f85f-46fc-85fe-fb1168c3034e.png)
 
