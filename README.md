@@ -1,6 +1,6 @@
 # UAS Pemrorgraman Web 
 
-Membuat dan meng hostingkan tugas akhir
+Membuat dan meng hostingkan tugas akhir dengan tema sistem antrian
 
 Dengan link URL : https://antrian.xyz
 
