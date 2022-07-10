@@ -18,5 +18,5 @@ Tampilan detail antrian
 
 ![4](https://user-images.githubusercontent.com/101656195/178028236-f5a2bc78-ccc1-406e-abbd-73f1069ff873.png)
 
-Membuat demo program dengan vidio dengan link URL :
+Membuat demo program mennggunakan power point : 
 
