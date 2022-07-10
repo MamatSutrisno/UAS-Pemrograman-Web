@@ -1,5 +1,11 @@
 # UAS Pemrorgraman Web 
 
+Nama : Mamat Sutrisno
+
+NIM : 312010082
+
+Kelas : TI.20.D1
+
 Membuat dan meng hostingkan tugas akhir dengan tema SISTEM ANTRIAN
 
 Dapat di cek melalui link URL : https://antrian.xyz
